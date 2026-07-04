@@ -1,0 +1,6 @@
+company,industry,employee_count,hiring_signal,funding_stage,funding_days_ago,tech_signal,pain_point
+Northwind Data,Data Infrastructure,85,GTM Engineer,Series A,21,Added Clay,manual lead routing is slowing down SDR follow-up
+Ledgerline,Fintech,340,,Series C,400,,
+Fieldworks AI,Vertical SaaS,40,SDR Manager,Seed,45,Added Smartlead,reps are spending hours a day on manual prospect research
+Barrow & Finch,Professional Services,22,,Bootstrapped,,,
+Colby Robotics,Industrial Tech,120,Head of RevOps,Series B,60,Added HubSpot,pipeline reporting is stitched together across five spreadsheets
